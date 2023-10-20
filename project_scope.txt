@@ -1,0 +1,17 @@
+Airline Crew Scheduling Software
+1.1 Calendar (Pilot & Flight Attendant)
+	1.1.1 Calculate & view user calendar
+	1.1.2 Add & Delete unavailabilities
+1.2 Crew Assignment
+	1.2.1 Schedule Crew for a single flight
+	1.2.2 Schedule Crew optimally for a batch of flights using column generation algorithm
+	1.2.3 Cancel Crew for Canceled Flight
+	1.2.4 Manually add or remove crew member from flight (System Admin)
+	1.2.5 Check that each crew schedule fits specified constraints
+1.3 Login
+	1.3.1 Validate EmployeeID and password
+	1.3.2 Add & remove users
+1.4 Read flight data
+	1.4.1 Read from database populated by external process
+	
+
